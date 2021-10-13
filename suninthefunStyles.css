@@ -1,0 +1,58 @@
+/* Set rule for background color*/
+body {
+	background-color: BlanchedAlmond;
+}
+
+/* Style rule for header element*/
+h1 {
+        font-weight: bold;
+        text-align: center;
+	color: DarkBlue;
+	border: 2px solid BurlyWood;
+	font-family: "Comic Sans MS";
+	background: LightBlue;
+}
+
+/* Style rules for h3 header*/
+h3 {
+        font-weight: bold;
+        color: navy;
+	font-size: 20px;
+	font-family: "Comic Sans MS";
+}
+
+/* Style rule for ul element*/
+ul {
+	color: DarkBlue;
+	font-size: 20px;
+}
+
+/* Style rule for button element */
+button {
+ 	 background-color: BlanchedAlmond;
+	 box-shadow: 2px 2px 4px black;
+}
+
+/* Style rules for button element */
+button {
+	color: DarkBlue;
+	font-weight: bold;
+	font-family: Comic Sans, sans-serif MS;
+}
+
+/* Style rule for red class selector */
+.red {
+		color: LightCoral;
+		font-family: "Comic Sans MS";
+}
+
+/* Style rule for green class selector */
+.green {
+		color: LightSkyBlue;
+		font-family: "Comic Sans MS";
+}
+
+/* Style rule for image element */
+img {
+		border: 5px solid OliveDrab
+}
